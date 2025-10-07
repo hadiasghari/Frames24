@@ -1,0 +1,25 @@
+jupyter
+ipykernel  # to run notebook cells
+ipywidgets
+
+transformers
+
+seaborn  # needed by ecco!
+scikit-learn  # installs scipy
+
+pandas
+scikit-learn  # also does scipy
+seaborn  # also does matplotlib
+
+torch
+transformers
+datasets
+
+nltk
+
+accelerate 
+sentencepiece 
+protobuf 
+bitsandbytes 
+pytorch
+ 
